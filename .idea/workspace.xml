@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d61b1adf-c42a-4fcd-aff2-b20455fce36e" name="Default" comment="" />
+    <list default="true" id="d61b1adf-c42a-4fcd-aff2-b20455fce36e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="profile.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/profile.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="395">
-              <caret line="69" column="14" lean-forward="true" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
+              <caret line="69" column="14" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -59,6 +61,9 @@
       <replace>class=&quot;prod&quot;</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -81,6 +86,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1177" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -119,14 +125,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.112164296" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -147,7 +152,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/profile.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7965">
           <caret line="531" selection-start-line="531" selection-end-line="531" />
@@ -173,7 +178,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/profile.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7965">
           <caret line="531" lean-forward="true" selection-start-line="531" selection-end-line="531" />
@@ -209,10 +214,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/profile.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
-          <caret line="69" column="14" lean-forward="true" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
+          <caret line="69" column="14" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
