@@ -1,0 +1,241 @@
+html, body , .cover {
+
+    height: 100%;
+
+}
+
+#photoc{
+    margin: -20px 0 0 0;
+    font-size: 15px;
+    text-align: center;
+    font-family: h;
+    text-transform: capitalize;
+    color: aliceblue;
+    background: rgba(255,255,255,0.3);
+
+
+}
+
+
+.cover{
+    background: url(mypagebg.jpg) top center no-repeat;
+    background-size: cover;
+    display: table;
+    width: 100%;
+    padding: 0 20%;
+    box-shadow: inset 0 0 100px #000;
+
+
+}
+
+#aboutpage{
+    padding: 10px 0 0 ;
+    font-family: "IM Fell French Canon SC";
+    font-size: 20px;
+}
+.cover-text {
+    text-align: center;
+    color: white;
+    display: table-cell;
+    vertical-align: middle;
+
+}
+
+.cover-text h1 {
+    margin: 0;
+    font-size: 90px;
+    font-family: Tangerine;
+
+
+}
+
+nav.navbar-inverse {
+    background: rgba(0,0,0,0.5);
+
+}
+
+.testimonial {
+    background: #222;
+}
+
+ #qoutetitle {
+     text-align: center;
+     font-size: 40px;
+     text-transform: capitalize;
+     padding: 10px 0 0 0;
+     color: aliceblue;
+     font-family: "Dancing Script";
+
+
+}
+
+blockquote {
+    border: none;
+    margin: 0;
+    font-family: georgia, Times, serif;
+    font-style: italic;
+    font-size: 32px;
+    color: white;
+    padding: 5px 0 0 10px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+
+blockquote + cite {
+    display: block;
+    text-align: right;
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #888;
+    margin-top: 20px;
+    font-family: h;
+    padding: 20px;
+}
+
+
+
+#slider{
+    padding: 0;
+    width: 60%;
+    margin: 20px auto 10px;
+
+}
+
+footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-family: georgia, Times , serif;
+}
+
+#myname {
+    color: hotpink;
+}
+
+.skills p {
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    text-transform:capitalize;
+    font-family: "Dancing Script";
+
+}
+.icons {
+    font-size: 70px;
+    padding: 10px 5px 10px 5px;
+
+
+}
+
+.projects {
+
+
+
+}
+
+#proc{
+
+    font-family: "IM Fell French Canon SC";
+    font-weight: bold;
+    text-align: center;
+    text-transform:capitalize;
+}
+
+#prod{
+    font-family: "IM Fell French Canon SC";
+    font-size: 15px;
+    text-transform:lowercase;
+}
+#projectstittle {
+
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    text-transform:capitalize;
+    font-family: "Dancing Script";
+    background: rgba(0,0,0,0.3);
+
+
+}
+
+
+
+.istagramframe {
+    margin: 50px 0 0 0 ;
+}
+
+@media only screen and ( max-width: 721px) {
+    section{
+        padding:0;
+    }
+    .cover h1 {
+        font-size: 75px;
+Color:black;
+    }
+
+    .icons {
+    font-size: 30px;
+    padding: 10px 5px 10px 5px;
+    text-align: center;
+    }
+    blockquote{
+        font-size: 15px;
+    }
+    blockquote + cite{
+        font-size: 10px;
+    }
+    #photoc{
+     font-size: 10px;
+    }
+}
+
+@media only screen and ( max-width: 480px) {
+
+    .cover{
+        /*background: url(mypagebg.jpg);*/
+        display: table;
+        background-color: black;
+        width: 100%;
+        padding: 0 20%;
+        box-shadow: inset 0 0 100px #000;
+
+
+    }
+
+    .cover h1 {
+        font-size: 75px;
+        Color:black;
+    }
+
+    .icons {
+        font-size: 30px;
+        padding: 10px 5px 10px 5px;
+        text-align: center;
+    }
+    blockquote{
+        font-size: 15px;
+    }
+    blockquote + cite{
+        font-size: 10px;
+    }
+    #photoc{
+        font-size: 10px;
+    }
+}
+
+
+@media only screen and ( min-width: 0px){
+     .cover{
+        /*background: url(mypagebg.jpg);*/
+        display: table;
+        background-color: black;
+        width: 100%;
+        padding: 0 20%;
+        box-shadow: inset 0 0 100px #000;
+
+
+    }
+
+}
